@@ -1,2 +1,2 @@
 # spammer
-My first ever GUI made
+Spam messenger and whatsapp
