@@ -6,7 +6,7 @@ driver = webdriver.Chrome()
 driver.get('https://www.messenger.com/')
 
 driver.find_element_by_id('email').send_keys('melvinchia623600@gmail.com')
-driver.find_element_by_id('pass').send_keys('melvinchiapinwen')
+driver.find_element_by_id('pass').send_keys('idontwanttotellyoulol')
 driver.find_element_by_id('loginbutton').click()
 lol = driver.find_element_by_tag_name('ul').find_elements_by_tag_name('li')
 for i in lol:
